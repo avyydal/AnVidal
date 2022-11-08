@@ -1,0 +1,121 @@
+h1 {
+font-family: cursive;
+text-align: center;
+border: 20px groove white;
+font-size: 50px;
+width:1000px;
+padding-bottom: 60px;
+border-radius: 10px;
+}
+
+
+#p1 {
+font-family: cursive;
+width:500px;
+border-radius: 20px;
+background-color: rgba(238, 238, 238, 0.2);
+border: 1px solid black;
+border-radius: 25px;
+color: white;
+}
+
+#p2 {
+font-family: cursive;
+width:500px;
+color: white;
+}
+
+
+
+h2 {
+font-family: white;
+text-align: center;
+color: white;
+border: 7px groove white;
+width:250px;
+}
+
+h3 {
+color: white;
+}
+
+#body1 {
+background-image: url(BGM1.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#body2 {
+background-image: url(BGM2.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#body3 {
+background-image: url(BGM3.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#body4 {
+background-image: url(BGM5.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#body5 {
+background-image: url(BGM4.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#body6 {
+background-image: url(BGM4.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+
+
+a{
+
+color:white;
+text-decoration: none;
+}
+
+img {
+margin-left: 550px;
+width:250px;
+border-radius: 10px;
+}
+
+
+ nav a {
+text-decoration: none;
+display: block;
+padding: 5px 10px;
+text-align: left;
+color: white;
+margin: 0;
+font-family: cursive;
+margin-top: 10px;
+}
+
+nav{
+display: flex;
+flex-wrap:wrap;
+background: rgb(0, 0, 0);
+background: rgba(0, 0,0, 0);
+}
+
+ nav a:hover {
+ 		background-color: #E6E6FA;
+ 		color: black;
+ }
+
